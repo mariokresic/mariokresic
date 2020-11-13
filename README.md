@@ -46,11 +46,10 @@
 
 </table>
 
-- 📫 How to reach me: 
 <br>
-mail: kresic993@gmail.com, 
+📫: kresic993@gmail.com, 
 <br>
-discord: marioooo#9747
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png" >: marioooo#9747
 
 
 <!--
