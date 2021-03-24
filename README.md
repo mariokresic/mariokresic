@@ -19,6 +19,7 @@
 <br>
 <img height="35" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png">
 <img height="35" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png">
+<img height="35" src="https://avatars.githubusercontent.com/u/1609975?s=200&v=4">
 <br>
 </td>
 	
@@ -33,7 +34,9 @@
 <br>
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
 <img height="35" src="https://camo.githubusercontent.com/41759602ad091b02adf7b4986b55b0a870471b98/68747470733a2f2f63646e2e767565746966796a732e636f6d2f696d616765732f6c6f676f732f6c6f676f2e737667">
+<img height="35" src="https://github.com/nuxt/nuxt.js/raw/dev/.github/nuxt.png">
 <br>
+<img height="35" src="https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/flutter-lockup-bg.jpg">
 </td>
 
 <td>
