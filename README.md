@@ -21,6 +21,9 @@
 <img height="35" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png">
 <img height="35" src="https://avatars.githubusercontent.com/u/1609975?s=200&v=4">
 <br>
+<img height="35" src="https://miro.medium.com/max/600/1*A_Hg7NPIoARg0RmdsVapqg.png">
+<img height="35" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_.NET_logo.png">
+<br>
 </td>
 	
 <td>
